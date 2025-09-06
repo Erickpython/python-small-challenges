@@ -12,3 +12,8 @@
     - Encapsulation (data inside each class)
     - Composition (schol has teachers and students)
     - Methods (like get_info, add_students)
+
+'''
+![AN EXAMPLE OF THE OUTPUT](<output example.png>)
+
+'''
